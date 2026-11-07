@@ -1,0 +1,8 @@
+# Dokumen anggaran dan tes yang memuat datanya tidak dipublikasikan
+sample/
+tests/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
